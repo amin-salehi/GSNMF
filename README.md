@@ -1,6 +1,13 @@
 # GSNMF
 Sentiment-driven Community Profiling and Detection on Social Media
 
+# Citation
 ```
-A. Salehi, M. Ozer, and H. Davulcu, “Sentiment-driven Community Profiling and Detection on Social Media,” in Proceedings of the 29th ACM Conference on Hypertext and Social Media, 2018.
+@inproceedings{salehi2018sentiment,
+	title={Sentiment-driven Community Profiling and Detection on Social Media},
+	author={Salehi, Amin and Ozer, Mert and Davulcu, Hasan},
+	booktitle={Proceedings of the 29th ACM Conference on Hypertext and Social Media},
+	year={2018},
+	organization={ACM}
+}
 ```
